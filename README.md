@@ -49,7 +49,7 @@
    - 例如 `https://vless.google.workers.dev/90cd4a77-141a-43c9-991b-08263cfe9c10?clash` Clash订阅格式，适用OpenClash等。
    - 例如 `https://vless.google.workers.dev/90cd4a77-141a-43c9-991b-08263cfe9c10?sb` singbox订阅格式，适用singbox等。
 
-3. 给 workers绑定 自定义域： 
+3. 给 workers绑定 托管到CF的自定义域： 
    - 在 workers控制台的 `触发器`选项卡，下方点击 `添加自定义域`。
    - 填入你已转入 CF 域名解析服务的次级域名，例如:`vless.google.com`后 点击`添加自定义域`，等待证书生效即可。
    - **如果你是小白，你现在可以直接起飞，不用再往下看了！！！**
